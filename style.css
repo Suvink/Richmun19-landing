@@ -1,0 +1,23 @@
+::-webkit-input-placeholder{
+    color: white;
+}
+body{
+    font-family: Montserrat;
+    background-image: url(./cn-bg.svg);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.navbar{
+    background-color: transparent;
+}
+.title{
+    color: white;
+}
+.input{
+    background-color: transparent;
+    border-color: white;
+    color: white;
+
+}
